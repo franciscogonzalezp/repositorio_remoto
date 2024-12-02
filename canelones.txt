@@ -1,2 +1,5 @@
 Receta de canelones:
-    - 
+    - Paso 1: preparo la pasta
+    - Paso 2: carne picada
+    - Paso 3: sofreir carne
+    - Paso 4: rellenar canelones
