@@ -1,6 +1,6 @@
 Receta de pollo asado:
-    - Paso 1: 
-    - Paso 2: 
+    - Paso 1: corta cebolla
+    - Paso 2: asar pollo
     - Paso 3: 
     - Paso 4: 
     - Paso 5: 
